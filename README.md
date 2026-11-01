@@ -9,3 +9,5 @@ effil,
 socket + ssl (luasocket + luasec),
 requests (lua-requests),
 SAMP.Lua (samp.events).
+
+Created by Afreldo
