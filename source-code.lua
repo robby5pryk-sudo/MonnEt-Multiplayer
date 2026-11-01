@@ -1,3 +1,14 @@
+-- ███╗   ███╗███████╗      ███╗   ███╗██████╗ 
+-- ████╗ ████║██╔════╝      ████╗ ████║██╔══██╗
+-- ██╔████╔██║█████╗  █████╗██╔████╔██║██████╔╝
+-- ██║╚██╔╝██║██╔══╝  ╚════╝██║╚██╔╝██║██╔═══╝ 
+-- ██║ ╚═╝ ██║███████╗      ██║ ╚═╝ ██║██║     
+-- ╚═╝     ╚═╝╚══════╝      ╚═╝     ╚═╝╚═╝
+-- Hello developers, I am handing this project over to you, as I likely won’t be continuing with it myself—feel free to work on it however you like.
+-- But I’m not stopping this project 100% here; I’ll update the code later when I have some time.
+-- visit my official website: https://afreldocommunity.vercel.app
+-- Made with love
+
 script_name("MonnEt")
 script_author("Afreldo")
 script_version("1.0")
