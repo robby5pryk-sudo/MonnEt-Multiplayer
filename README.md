@@ -5,5 +5,5 @@
 mimgui,
 effil,
 socket + ssl (luasocket + luasec),
-requests (lua-requests)
-SAMP.Lua (samp.events)
+requests (lua-requests),
+SAMP.Lua (samp.events).
